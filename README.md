@@ -1,4 +1,5 @@
 #GWAS Data Exploration using R
+print("Hello, GWAS in R!")
 
 This repository contains a simple R script for exploring GWAS data stored in an Excel file.
 
