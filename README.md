@@ -4,6 +4,11 @@ This repository contains a R script for exploring Genome-Wide Association Study 
 data stored in a TSV file.  
 The project focuses on safely loading the data and visualizing the distribution of GWAS p-values.
 
+---
+
+## Repository Information
+
+This repository contains scripts and workflows for Genome-Wide Association Study (GWAS) analysis, data processing, and result visualization using R.
 ## Files in this Repository
 - `gwas_analysis.R` – R script for GWAS data loading and analysis  
 - `data.xls.tsv` – GWAS dataset (TSV format)  
