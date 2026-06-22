@@ -88,7 +88,7 @@ Contributions are welcome! If you'd like to improve this project:
 
 ## 📄License
 
-This project is open source. Consider adding a [LICENSE](LICENSE) file (e.g., MIT) so others know how they can use your code.
+This project is open source. Consider adding a [LICENSE](LICENSE) 
 
 ## 👤Author
 
